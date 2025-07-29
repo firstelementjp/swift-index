@@ -1,5 +1,7 @@
 # Swift Index
 
+![Swift Index Banner](https://github.com/firstelementjp/swift-index/blob/main/assets/banner-1544x500.png?raw=true)
+
 [![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/swift-index.svg?style=flat-square)](https://wordpress.org/plugins/swift-index/)
 [![WordPress Requires At Least](https://img.shields.io/wordpress/plugin/tested/swift-index.svg?style=flat-square)](https://wordpress.org/plugins/swift-index/)
 [![WordPress Tested Up To](https://img.shields.io/wordpress/plugin/tested/swift-index.svg?style=flat-square)](https://wordpress.org/plugins/swift-index/)
