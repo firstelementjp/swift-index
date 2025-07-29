@@ -2,7 +2,7 @@
 /vendor/
 /scoped/
 composer.lock
-/.DS_Store
+**/.DS_Store
 .idea/
 .vscode/
 *.log
