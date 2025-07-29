@@ -1,0 +1,18 @@
+# Ignored by Swift Index plugin for distribution
+/node_modules/
+/tests/
+/tmp/
+/.editorconfig
+/.gitattributes
+/.php_cs.dist
+/.travis.yml
+/phpunit.xml.dist
+/composer.json
+/composer.lock
+/.DS_Store
+/Thumbs.db
+.lando/
+.vscode/
+.idea/
+swift-index_dev/
+/vendor/
