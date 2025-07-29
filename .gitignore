@@ -1,9 +1,0 @@
-# Ignored by Swift Index plugin for distribution
-/vendor/
-/scoped/
-composer.lock
-**/.DS_Store
-.idea/
-.vscode/
-*.log
-tmp/
