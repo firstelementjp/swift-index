@@ -1,0 +1,72 @@
+/**
+ * Swift Index Admin Styles
+ *
+ * This file contains styles for the Swift Index plugin's admin interface,
+ * including tabbed navigation, log display in meta boxes, and log summaries
+ * in admin list tables.
+ *
+ * @package Swift_Index
+ * @since   1.0.0
+ */
+
+/* Tab UI styles */
+.tab-content-panel {
+	display: none;
+}
+.active-tab-content {
+	display: block;
+}
+
+/* Latest Notification Log Styles (in post edit meta box) */
+.swift-index-latest-log p {
+	margin: 0.5em 0;
+	font-size: 0.9em;
+	line-height: 1.6;
+}
+
+/* Color coding for status codes in the meta box log display */
+.swift-index-latest-log .status-200-ok,
+.swift-index-latest-log .status-200 {
+	color: #228B22;
+	font-weight: bold;
+}
+.swift-index-latest-log .status-403-forbidden,
+.swift-index-latest-log .status-403,
+.swift_index-latest-log .status-404-not-found,
+.swift_index-latest-log .status-404,
+.swift_index-latest-log .status-token-error,
+.swift_index-latest-log .status-config-error,
+.swift_index-latest-log .status-json-error,
+.swift_index-latest-log .status-auth-exception,
+.swift_index-latest-log .status-general-exception-auth,
+.swift_index-latest-log .status-wp-remote-error,
+.swift_index-latest-log .status-api-error,
+.swift_index-latest-log .status-token-unavailable {
+	color: #DC143C;
+	font-weight: bold;
+}
+.swift-index-latest-log .status-warning,
+.swift-index-latest-log .status-configuration-error {
+	color: #FF8C00;
+	font-weight: bold;
+}
+.swift-index-latest-log .status-info {
+	color: #666666;
+}
+
+/* Log Summary Status Classes (for admin list table date column) */
+.swift-index-log-summary .status-success {
+	color: #228B22;
+	font-weight: bold;
+}
+.swift-index-log-summary .status-error {
+	color: #DC143C;
+	font-weight: bold;
+}
+.swift-index-log-summary .status-warning {
+	color: #FF8C00;
+	font-weight: bold;
+}
+.swift-index-log_summary .status-info {
+	color: #666666
+}

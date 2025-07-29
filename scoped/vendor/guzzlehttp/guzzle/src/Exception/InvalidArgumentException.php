@@ -1,0 +1,7 @@
+<?php
+
+namespace FirstElement\SwiftIndex\GuzzleHttp\Exception;
+
+final class InvalidArgumentException extends \InvalidArgumentException implements GuzzleException
+{
+}

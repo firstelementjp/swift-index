@@ -1,0 +1,542 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Swift Index\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-28 02:46+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.1; php-8.2.22\n"
+"X-Domain: swift-index"
+
+#: includes/admin-settings.php:281
+msgid "(Recommended for ensuring per-post history is always available)"
+msgstr ""
+
+#: includes/admin-settings.php:503
+msgid ""
+"A JSON file will be downloaded to your computer. <strong>Keep this file "
+"secure and confidential.</strong> You will need its content for the plugin "
+"settings."
+msgstr ""
+
+#: includes/admin-settings.php:480
+msgid "A. Google Cloud Platform (GCP) Setup"
+msgstr ""
+
+#: includes/admin-settings.php:532
+msgid ""
+"After these steps, the plugin should be ready to notify Google when your "
+"content is published or updated!"
+msgstr ""
+
+#: includes/log-functions.php:185
+msgid "All notification logs have been successfully deleted."
+msgstr ""
+
+#: includes/admin-settings.php:94
+msgid "API Credentials"
+msgstr ""
+
+#: includes/admin-settings.php:417
+msgid "API Settings & Configuration"
+msgstr ""
+
+#: includes/enqueue-scripts.php:72
+msgid ""
+"Are you sure you want to delete all notification logs? This action cannot be "
+"undone."
+msgstr ""
+
+#: includes/post-integration.php:280
+msgid "Auth/Permission Error"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Automatically notifies Google's Indexing API when your WordPress content is "
+"published, for faster indexing."
+msgstr ""
+
+#: includes/admin-settings.php:510
+msgid "B. Google Search Console Setup"
+msgstr ""
+
+#: includes/admin-settings.php:522
+msgid "C. Plugin Configuration"
+msgstr ""
+
+#: includes/admin-settings.php:501
+msgid "Choose \"JSON\" as the key type and click \"CREATE\"."
+msgstr ""
+
+#: includes/admin-settings.php:500
+msgid "Click \"ADD KEY\" > \"Create new key\"."
+msgstr ""
+
+#: includes/admin-settings.php:519
+msgid "Click \"ADD\"."
+msgstr ""
+
+#: includes/admin-settings.php:492
+msgid "Click \"Continue\", then click \"Done\"."
+msgstr ""
+
+#: includes/admin-settings.php:490
+msgid "Click \"Create and Continue\"."
+msgstr ""
+
+#: includes/admin-settings.php:488
+msgid "Click \"Create Service Account\"."
+msgstr ""
+
+#: includes/admin-settings.php:530
+msgid "Click \"Save Settings\"."
+msgstr ""
+
+#: includes/admin-settings.php:515
+msgid "Click on \"Users and permissions\"."
+msgstr ""
+
+#: includes/admin-settings.php:498
+msgid ""
+"Click on the service account's email address (or click the three dots menu "
+"and select \"Manage keys\")."
+msgstr ""
+
+#: includes/admin-settings.php:516
+msgid "Click the \"ADD USER\" button (usually top right)."
+msgstr ""
+
+#: includes/post-integration.php:271
+msgid "Configuration Error"
+msgstr ""
+
+#: includes/admin-settings.php:529
+msgid ""
+"Configure other settings like \"Target Post Types\" and \"Log Rotation\" as "
+"needed."
+msgstr ""
+
+#: includes/admin-settings.php:527
+msgid "Copy the entire content of the JSON file."
+msgstr ""
+
+#: includes/admin-settings.php:483
+msgid "Create a new project or select an existing one."
+msgstr ""
+
+#: includes/admin-settings.php:495
+msgid "Create a Service Account Key (JSON):"
+msgstr ""
+
+#: includes/admin-settings.php:485
+msgid "Create a Service Account:"
+msgstr ""
+
+#: includes/admin-settings.php:336
+msgid "Data Handling on Uninstall"
+msgstr ""
+
+#: includes/admin-settings.php:132
+msgid "Data on Uninstall"
+msgstr ""
+
+#: includes/log-functions.php:181
+#, php-format
+msgid "Database error: %s"
+msgstr ""
+
+#: includes/class-swift-index-log-list-table.php:56
+msgid "Date / Time"
+msgstr ""
+
+#: includes/post-integration.php:139
+msgid "Date:"
+msgstr ""
+
+#: includes/admin-settings.php:461
+msgid "Delete All Notification Logs"
+msgstr ""
+
+#: includes/admin-settings.php:339
+msgid ""
+"Delete all plugin data (settings, logs) from the database when the plugin is "
+"deleted."
+msgstr ""
+
+#: includes/post-integration.php:299
+#, php-format
+msgid "Details: %s"
+msgstr ""
+
+#: includes/admin-settings.php:484
+msgid "Enable the Indexing API:"
+msgstr ""
+
+#: includes/admin-settings.php:513
+msgid ""
+"Ensure your website (e.g., yourdomain.com) is added as a property and that "
+"you have verified ownership."
+msgstr ""
+
+#: includes/log-functions.php:164 includes/log-functions.php:169
+msgid "Error"
+msgstr ""
+
+#: includes/admin-settings.php:440
+msgid "Error: Log table class file not found."
+msgstr ""
+
+#: includes/post-integration.php:255
+msgid "Failed (Client Error)"
+msgstr ""
+
+#: includes/post-integration.php:258
+msgid "Failed (Server Error)"
+msgstr ""
+
+#: includes/post-integration.php:288
+msgid "Failed (Unknown)"
+msgstr ""
+
+#: includes/log-functions.php:179
+msgid "Failed to delete logs."
+msgstr ""
+
+#: includes/admin-settings.php:489
+msgid ""
+"Fill in a service account name (e.g., \"Swift Index Service\"). The Service "
+"account ID will be generated automatically."
+msgstr ""
+
+#: includes/admin-settings.php:497
+msgid "Find your newly created service account in the list."
+msgstr ""
+
+#. Author of the plugin
+msgid "FirstElement Inc."
+msgstr ""
+
+#: includes/admin-settings.php:491
+msgid ""
+"For \"Grant this service account access to project\", select the role "
+"\"Owner\". (Note: While selecting the \"Owner\" role in GCP simplifies setup,"
+" it grants broad permissions. Advanced users can configure custom roles with "
+"more limited access. Regardless, the Indexing API requires your Service "
+"Account to be added as an \"Owner\" to your verified property in Google "
+"Search Console.)."
+msgstr ""
+
+#. %s: HTML link to the Setup Guide tab.
+#: includes/admin-settings.php:220
+#, php-format
+msgid ""
+"For this plugin to work correctly, you must also configure the Indexing API "
+"in your Google Cloud Console and link the Service Account to your verified "
+"property in Google Search Console. Please refer to the %s tab for detailed "
+"instructions."
+msgstr ""
+
+#: includes/admin-settings.php:514
+msgid ""
+"For your property, go to \"Settings\" (usually at the bottom of the left "
+"sidebar)."
+msgstr ""
+
+#: includes/admin-settings.php:487
+msgid "Go to \"IAM & Admin\" > \"Service Accounts\"."
+msgstr ""
+
+#: includes/admin-settings.php:512
+#, php-format
+msgid ""
+"Go to <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">Google "
+"Search Console</a>."
+msgstr ""
+
+#: includes/admin-settings.php:482
+#, php-format
+msgid ""
+"Go to the <a href=\"%s\" target=\"_blank\" rel=\"noopener noreferrer\">"
+"Google Cloud Console</a>."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/firstelementjp/swift-index"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.firstelement.co.jp/"
+msgstr ""
+
+#: includes/admin-settings.php:342
+msgid ""
+"If you check this box, all Swift Index settings and notification logs will "
+"be permanently removed from your database when you delete the plugin. This "
+"action cannot be undone. If you plan to reinstall the plugin later and wish "
+"to keep your data, leave this unchecked."
+msgstr ""
+
+#: includes/admin-settings.php:210
+msgid "Important Setup Required:"
+msgstr ""
+
+#: includes/admin-settings.php:517
+msgid ""
+"In the \"Email address\" field, paste the email address of the Service "
+"Account you created in GCP (it looks like your-service-account-name@your-"
+"project-id.iam.gserviceaccount.com)."
+msgstr ""
+
+#: includes/admin-settings.php:484
+msgid ""
+"In the API Library, search for \"Indexing API\" and enable it for your "
+"project."
+msgstr ""
+
+#: includes/post-integration.php:102
+msgid "Indexing API Submission"
+msgstr ""
+
+#: includes/post-integration.php:310
+msgid "Indexing API: Not sent yet"
+msgstr ""
+
+#: includes/post-integration.php:80
+msgid "Invalid post data provided to Swift Index."
+msgstr ""
+
+#: includes/admin-settings.php:279
+msgid "Keep only the latest log entry for each post"
+msgstr ""
+
+#: includes/post-integration.php:123
+msgid "Latest Notification Log"
+msgstr ""
+
+#: includes/class-swift-index-log-list-table.php:43
+msgid "Log Entries"
+msgstr ""
+
+#: includes/class-swift-index-log-list-table.php:42
+msgid "Log Entry"
+msgstr ""
+
+#: includes/admin-settings.php:125
+msgid "Log Rotation"
+msgstr ""
+
+#: includes/admin-settings.php:275
+msgid "Log Rotation Settings"
+msgstr ""
+
+#: includes/class-swift-index-log-list-table.php:61
+msgid "Message"
+msgstr ""
+
+#: includes/post-integration.php:143
+msgid "Message:"
+msgstr ""
+
+#: includes/class-swift-index-log-list-table.php:88
+msgid "N/A"
+msgstr ""
+
+#: includes/admin-settings.php:499
+msgid "Navigate to the \"KEYS\" tab."
+msgstr ""
+
+#: includes/admin-settings.php:525
+msgid "Navigate to the \"Settings\" tab on this plugin page."
+msgstr ""
+
+#: includes/post-integration.php:284
+msgid "Network Error"
+msgstr ""
+
+#: includes/admin-settings.php:256
+msgid "No eligible post types found."
+msgstr ""
+
+#: includes/post-integration.php:155
+msgid "No notification history found for this post."
+msgstr ""
+
+#: includes/admin-settings.php:411 includes/admin-settings.php:429
+msgid "Notification Logs"
+msgstr ""
+
+#: includes/admin-settings.php:112
+msgid "Notification Settings"
+msgstr ""
+
+#: includes/class-swift-index-log-list-table.php:57
+msgid "Notified URL"
+msgstr ""
+
+#: includes/post-integration.php:106
+msgid "Notify Google Indexing API for this post"
+msgstr ""
+
+#: includes/admin-settings.php:294
+msgid "Number of logs to keep (items):"
+msgstr ""
+
+#: includes/admin-settings.php:523
+msgid "Once you have the JSON key file and have configured Search Console:"
+msgstr ""
+
+#: includes/admin-settings.php:526
+msgid "Open the downloaded JSON key file in a text editor."
+msgstr ""
+
+#: includes/admin-settings.php:207
+msgid "Paste the content of your Google Service Account JSON key file here."
+msgstr ""
+
+#: includes/admin-settings.php:528
+msgid ""
+"Paste the copied JSON content into the \"Service Account JSON\" textarea in "
+"the plugin settings."
+msgstr ""
+
+#: includes/admin-settings.php:205
+msgid "Paste the entire content of your JSON key file here."
+msgstr ""
+
+#: includes/class-swift-index-log-list-table.php:58
+msgid "Post ID"
+msgstr ""
+
+#: includes/admin-settings.php:286
+msgid "Retention period (days):"
+msgstr ""
+
+#: includes/admin-settings.php:422
+msgid "Save Settings"
+msgstr ""
+
+#: includes/admin-settings.php:450
+msgid "Search Logs"
+msgstr ""
+
+#: includes/log-functions.php:164
+msgid "Security check failed. Please try refreshing the page and try again."
+msgstr ""
+
+#: includes/admin-settings.php:299
+msgid ""
+"Select the method for log rotation. Older or excess logs will be "
+"automatically deleted."
+msgstr ""
+
+#: includes/admin-settings.php:254
+msgid "Select the post types to automatically notify Google Indexing API for."
+msgstr ""
+
+#: includes/admin-settings.php:100
+msgid "Service Account JSON"
+msgstr ""
+
+#: includes/admin-settings.php:518
+msgid ""
+"Set the \"Permission\" to \"Owner\". This is required for the Indexing API "
+"to work."
+msgstr ""
+
+#: includes/admin-settings.php:410
+msgid "Settings"
+msgstr ""
+
+#: includes/admin-settings.php:212 includes/admin-settings.php:412
+msgid "Setup Guide"
+msgstr ""
+
+#: includes/admin-settings.php:477
+msgid "Setup Guide: Google API & Search Console"
+msgstr ""
+
+#: includes/class-swift-index-log-list-table.php:60
+msgid "Status"
+msgstr ""
+
+#: includes/post-integration.php:297
+#, php-format
+msgid "Status Code: %s"
+msgstr ""
+
+#: includes/post-integration.php:141
+msgid "Status:"
+msgstr ""
+
+#: includes/post-integration.php:252 includes/post-integration.php:266
+#: includes/post-integration.php:298
+msgid "Success"
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin-settings.php:24 includes/admin-settings.php:25
+#: includes/admin-settings.php:407 includes/post-integration.php:40
+msgid "Swift Index"
+msgstr ""
+
+#: includes/admin-settings.php:118
+msgid "Target Post Types"
+msgstr ""
+
+#: includes/post-integration.php:112
+msgid ""
+"This post type is generally targeted for notifications. Uncheck to skip for "
+"this specific post."
+msgstr ""
+
+#: includes/post-integration.php:114
+msgid ""
+"This post type is not generally targeted for notifications. Check to notify "
+"for this specific post."
+msgstr ""
+
+#: includes/post-integration.php:296
+#, php-format
+msgid "Time: %s"
+msgstr ""
+
+#: includes/admin-settings.php:478
+msgid ""
+"To use the Swift Index plugin, you need to set up a Google Cloud Project, "
+"enable the Indexing API, create a Service Account JSON key, and then add "
+"that Service Account as an owner in your Google Search Console property."
+msgstr ""
+
+#: includes/class-swift-index-log-list-table.php:59
+msgid "Type"
+msgstr ""
+
+#: includes/post-integration.php:140
+msgid "Type:"
+msgstr ""
+
+#: includes/post-integration.php:295
+#, php-format
+msgid "Type: %s"
+msgstr ""
+
+#: includes/post-integration.php:148
+msgid "View All Logs"
+msgstr ""
+
+#: includes/admin-settings.php:342
+msgid "Warning:"
+msgstr ""
+
+#: includes/log-functions.php:169
+msgid "You do not have sufficient permissions to perform this action."
+msgstr ""
