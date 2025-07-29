@@ -3,7 +3,7 @@
 [![WordPress Plugin Version](https://img.shields.io/wordpress/plugin/v/swift-index.svg?style=flat-square)](https://wordpress.org/plugins/swift-index/)
 [![WordPress Requires At Least](https://img.shields.io/wordpress/plugin/tested/swift-index.svg?style=flat-square)](https://wordpress.org/plugins/swift-index/)
 [![WordPress Tested Up To](https://img.shields.io/wordpress/plugin/tested/swift-index.svg?style=flat-square)](https://wordpress.org/plugins/swift-index/)
-[![WordPress Requires PHP](https://img.shields.io/wordpress/plugin/php-version/swift-index.svg?style=flat-square)](https://wordpress.org/plugins/swift-index/)
+<!-- [![WordPress Requires PHP](https://img.shields.io/wordpress/plugin/php-version/swift-index.svg?style=flat-square)](https://wordpress.org/plugins/swift-index/) -->
 [![License](https://img.shields.io/badge/License-GPLv3_or_later-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.html)
 [![Contributors](https://img.shields.io/badge/Contributors-firstelement%2C%20dxd5001-blue.svg)](https://github.com/firstelementjp/swift-index/graphs/contributors)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/fejp?country.x=JP&locale.x=ja_JP)
